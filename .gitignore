@@ -1,0 +1,7 @@
+rootFiles
+data
+Setup.sh
+run/outputs
+run/errors
+lib/*
+bin/*
